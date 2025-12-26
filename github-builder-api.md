@@ -38,7 +38,7 @@ The API is designed to function as a lightweight CI/CD build service. It operate
 
 ## High-Level Workflow
 
-```
+```text
 Client (curl/Postman)
         |
         | POST /api/github/build
