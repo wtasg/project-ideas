@@ -1,15 +1,13 @@
-
 # GitHub Builder API
 
 ## Project Description
 
 GitHub Builder API is a Spring Boot–based DevOps automation backend service that allows users to provide a GitHub repository URL and automatically:
 
-1. Clone the repository
-2. Detect and build Java projects using Maven or Gradle
-3. Generate build artifacts such as JAR or WAR files
-4. Store build output in two locations:
-
+* Clone the repository
+* Detect and build Java projects using Maven or Gradle
+* Generate build artifacts such as JAR or WAR files
+*  Store build output in two locations:
    * Internal server storage
    * User-defined destination path
 
@@ -28,7 +26,7 @@ The API is designed to function as a lightweight CI/CD build service. It operate
 
 ## Key Features
 
-* GitHub repository cloning
+1 GitHub repository cloning
 * Automated Java build execution
 * Artifact generation and management (JAR/WAR)
 * Dual output distribution
@@ -60,13 +58,12 @@ GitHub Builder API
 
 ## Workflow (Step-by-Step)
 
-1. The user sends a GitHub repository URL
-2. The API clones the repository using Git operations
-3. The build configuration is detected (Maven or Gradle)
-4. The build process is executed
-5. Build artifacts are generated
-6. Artifacts are copied:
-
+* The user sends a GitHub repository URL
+* The API clones the repository using Git operations
+* The build configuration is detected (Maven or Gradle)
+* The build process is executed
+* Build artifacts are generated
+* Artifacts are copied:
    * To internal storage for system use
    * To a user-defined destination path
 
@@ -100,7 +97,3 @@ GitHub Builder API
 
 ---
 
-* Prepare interview explanation answers
-* Create API documentation format
-
-Just tell me what you want next.
