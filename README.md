@@ -19,6 +19,7 @@
 
 * Expense Tracker API
 * Blogging Platform API
+* OTP login
 * Task Tracker
 * TMDB CLI Tool
 * URL Shortener API
