@@ -5,6 +5,7 @@
 - [project-grocery-tracker](./project-grocery-tracker)
 - [project-share-info](./project-share-info)
 - [project-tic-tac-toe](./project-tic-tac-toe)
+- [ride hailing](./ride-hailing.md) [sample #ai-slop app](https://github.com/wtasg/ride-hailing)
 
 ## B2B SAS Ideas
 
